@@ -40,5 +40,9 @@ If you found value in something I have created, please feel free to give me a di
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshcenation&" alt="yogeshcenation" /></p>
 
+## 📕 Latest Blog Posts on Medium:
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yogeshselvarajan/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yogeshselvarajan/0" alt="Recent Article 0"> 
+
 
 
