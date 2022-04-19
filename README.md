@@ -2,6 +2,7 @@
 <h3 align="center"> I'm a Student, Programmer and Nature lover !! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshcenation&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshcenation" /> </p>
+<a href="https://wakatime.com/@d2f908ea-d18c-4407-882e-e840136d706c"><img src="https://wakatime.com/badge/user/d2f908ea-d18c-4407-882e-e840136d706c.svg" alt="Total time coded since Apr 10 2022" /></a>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshcenation" alt="yogeshcenation" /></a> </p>
 
 ### About me :
