@@ -42,6 +42,9 @@ If you found value in something I have created, please feel free to give me a di
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshcenation&" alt="yogeshcenation" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 
