@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshcenation" alt="yogeshcenation" /></a> </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ### About me :
 My name is Yogesh.S and I am Student at Mepco Schlenk Enginering College, Tamil Nadu, India. I am currently persuing my 2nd Year of my UG Programme and is looking to solve real world problems.
 I have a passion for learning and sharing my knowledge with others as publicly as possible. 
@@ -39,10 +43,11 @@ If you found value in something I have created, please feel free to give me a di
 </p>
 
 ## :zap: GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshcenation&show_icons=true&locale=en&layout=compact" alt="yogeshcenation" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshcenation&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yogeshcenation&show_icons=true&locale=en" alt="yogeshcenation" /></p>
+![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshcenation&show_icons=true&theme=gruvbox)
 
+[![Yogesh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yogesh_cenation)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshcenation&" alt="yogeshcenation" /></p>
 
 
