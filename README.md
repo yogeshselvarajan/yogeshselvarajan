@@ -8,20 +8,22 @@
 
 I'm studying Computer Science 🎓 from Mepco Schlenk Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to share knowledge to the newbies 👨🏻‍💻. I'm currently into Cloud Computing 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **1** year ago.
+Joined Github **2** years ago.
 
-Like My Work?
+<b>Like My Work?</b>
+
 <a href="https://www.buymeacoffee.com/yogeshcenation" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
 [![](https://gitwar.herokuapp.com/badge?username=yogeshcenation&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### Resume:
+[Click here to view the latest resume](https://github.com/yogeshcenation/yogeshcenation/blob/8d13fb3b93f5cf61adc37eae82eda10f595d0288/Yogesh%20S%20-%20Mepco%20Schlenk%20Clg.pdf)
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Java, Oracle,Python <br />  etc.
-- 🚀 &nbsp; I’m currently learning Cloud Computing Technologies.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yogeshcenation).
+- 🛠 &nbsp; I’m currently working with Python <br />  etc.
+- 🚀 &nbsp; I’m currently learning Machine Learning and Cloud Computing Technologies.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yogeshcenation?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/yogeshcenation/yogeshcenation/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: James Gosling and his team were cleaning up C++ and accidently wound up with Java!
 - 📫 &nbsp; How to reach me: yogeshselvarajan@gmail.com.
