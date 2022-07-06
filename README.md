@@ -57,7 +57,6 @@ Joined Github **2** years ago.
   <img align="center" alt="Yogesh-AWS" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Yogesh-Azure" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Yogesh-GCP" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="right" alt="adreider-yoda" style="border-radius: 50%" width="300px" src="https://static1.squarespace.com/static/5a16de5b32601eaa305506d6/t/5c136d9cf950b792938ca89d/1544777143962/giphy.gif?format%3D300w">
 </div>
 
 ### Projects and Dev Stuffs:
