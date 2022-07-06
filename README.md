@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Yogesh S!](https://github.com/yogeshcenation/)
+## Hey 👋, I'm [Yogesh S!](https://github.com/yogeshcenation/)❤️🔥
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-s-544192203/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YogeshS66320455)
@@ -10,18 +10,23 @@ I'm studying Computer Science 🎓 from Mepco Schlenk Engineering College 🏛. 
 
 Joined Github **2** years ago.
 
-<b>Like My Work?</b>
+### Current Role:
+- AWS Cloud Intern at F13 Technologies
+  (July 5, 2022 - present)
+
+
+### Like My Work?
 
 <a href="https://www.buymeacoffee.com/yogeshcenation" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 [![](https://gitwar.herokuapp.com/badge?username=yogeshcenation&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Resume:
-[Click here to view the latest resume](https://github.com/yogeshcenation/yogeshcenation/blob/8d13fb3b93f5cf61adc37eae82eda10f595d0288/Yogesh%20S%20-%20Mepco%20Schlenk%20Clg.pdf)
+[Click here to view the latest resume](https://cloudfil.es/5zEJioXMAzH)
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python <br />  etc.
+- 🛠 &nbsp; I’m currently working with Python, AWS Cloud <br />  etc.
 - 🚀 &nbsp; I’m currently learning Machine Learning and Cloud Computing Technologies.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yogeshcenation?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/yogeshcenation/yogeshcenation/issues/2)! I am happy to help.
@@ -35,10 +40,25 @@ Joined Github **2** years ago.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 ### Languages and Tools:
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.ibm.com/in-en/watson" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/officel/50/000000/ibm-watson.png" alt="watson" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Yogesh-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Yogesh-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Yogesh-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Yogesh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Yogesh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Yogesh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yogesh-R" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Yogesh-Jupyter-Notebooks" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-plain-wordmark.svg">
+   <img align="center" alt="Yogesh-Numpy" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Yogesh-Pandas" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Yogesh-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center" alt="Yogesh-Oracle" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Yogesh-AWS" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Yogesh-Azure" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Yogesh-GCP" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="right" alt="adreider-yoda" style="border-radius: 50%" width="300px" src="https://static1.squarespace.com/static/5a16de5b32601eaa305506d6/t/5c136d9cf950b792938ca89d/1544777143962/giphy.gif?format%3D300w">
+</div>
 
 ### Projects and Dev Stuffs:
 
@@ -80,10 +100,12 @@ Joined Github **2** years ago.
 ### Find my latest blog:
 [![Yogesh's  Medium](https://github-readme-medium.vercel.app/?username=s-yogesh)](https://medium.com/@s-yogesh)
 
+---
+![GitHub followers](https://img.shields.io/github/followers/yogeshcenation?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/yogeshcenation?style=for-the-badge)
+  
+---
+
 #
-
 <div align="center">
-
 ### Show some ❤️ by starring some of the repositories!
-
-</div>
+</div>  
