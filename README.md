@@ -65,15 +65,15 @@ Joined Github **2** years ago.
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogeshcenation&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshcenation&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogeshselvarajan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshselvarajan&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshcenation&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshselvarajan&hide_border=true" />
 </details>
 
 <details>
@@ -100,7 +100,7 @@ Joined Github **2** years ago.
 [![Yogesh's  Medium](https://github-readme-medium.vercel.app/?username=s-yogesh)](https://medium.com/@s-yogesh)
 
 ---
-![GitHub followers](https://img.shields.io/github/followers/yogeshcenation?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/yogeshcenation?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/yogeshselvarajan?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/yogeshcenation?style=for-the-badge)
   
 ---
 
