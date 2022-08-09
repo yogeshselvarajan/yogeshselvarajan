@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Yogesh S!](https://github.com/yogeshcenation/)❤️🔥
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-s-544192203/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-s-he-him-544192203)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YogeshS66320455)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yogesh_photography24/)
 
@@ -12,7 +12,9 @@ Joined Github **2** years ago.
 
 ### Current Role:
 - AWS Cloud Intern at F13 Technologies
-  (July 5, 2022 - present)
+  (July 5, 2022 - August 5, 2022)
+- Team Project Lead at F13 Technologies 
+  (August 8,2022 -  Present) 
 
 
 ### Like My Work?
