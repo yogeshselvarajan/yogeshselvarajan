@@ -21,7 +21,7 @@ Joined Github **2** years ago.
 ### Like My Work?
 
 <a href="https://www.buymeacoffee.com/yogeshcenation" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-[![](https://gitwar.herokuapp.com/badge?username=yogeshcenation&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://gitwar.herokuapp.com/badge?username=yogeshselvarajan&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Resume:
@@ -31,8 +31,8 @@ Joined Github **2** years ago.
 
 - 🛠 &nbsp; I’m currently working with Python, AWS Cloud <br />  etc.
 - 🚀 &nbsp; I’m currently learning Machine Learning and Cloud Computing Technologies.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yogeshcenation?tab=repositories).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/yogeshcenation/yogeshcenation/issues/2)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yogeshselvarajan?tab=repositories).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/yogeshcenation/yogeshselvarajan/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: James Gosling and his team were cleaning up C++ and accidently wound up with Java!
 - 📫 &nbsp; How to reach me: yogeshselvarajan@gmail.com.
 
