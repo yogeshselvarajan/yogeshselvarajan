@@ -61,6 +61,15 @@ Joined Github **2** years ago.
   <img align="center" alt="Yogesh-Azure" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Yogesh-GCP" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 </div>
+### My Badges Earned
+<!--START_SECTION:badges-->
+[![IT Academy: Cloud and Virtualization Concepts](https://images.credly.com/size/110x110/images/8ca28f8d-5ac0-49d7-b783-608cd4a61072/image.png)](http://www.credly.com/badges/70c32882-4c2f-40a9-987b-1e3df2928e8e "IT Academy: Cloud and Virtualization Concepts")
+[![AWS Partner: Cloud Economics Accreditation](https://images.credly.com/size/110x110/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png)](http://www.credly.com/badges/175d0775-c64f-4418-a3d3-3a108a2da9dd "AWS Partner: Cloud Economics Accreditation")
+[![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/110x110/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png)](http://www.credly.com/badges/e3ba64b4-2f37-4b5d-8c95-49a613dd8d92 "AWS Partner: Accreditation (Technical)")
+[![AWS Partner: Accreditation (Business)](https://images.credly.com/size/110x110/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png)](http://www.credly.com/badges/3bb6ef3f-5e84-4b1b-9266-42c4569e4c92 "AWS Partner: Accreditation (Business)")
+[![Introduction to Cloud Development with HTML5, CSS3, and JavaScript](https://images.credly.com/size/110x110/images/440f7195-419c-49dd-926d-e9b4207c2ba0/Introduction_to_Cloud_Development_-_HTML_-_CSS_-_JavaScript.png)](http://www.credly.com/badges/77ec20ad-8391-4579-9a3a-367d715aeb3e "Introduction to Cloud Development with HTML5, CSS3, and JavaScript")
+[![Cloud Computing Core](https://images.credly.com/size/110x110/images/248dad75-1218-4de6-9592-5fc3b89566b4/edX_-_Cloud_Computing_Core_.png)](http://www.credly.com/badges/505baaaa-784c-42cf-a441-015ce2035362 "Cloud Computing Core")
+<!--END_SECTION:badges-->
 
 ### Projects and Dev Stuffs:
 
@@ -101,16 +110,6 @@ Joined Github **2** years ago.
 
 ### Find my latest blog:
 [![Yogesh's  Medium](https://github-readme-medium.vercel.app/?username=s-yogesh)](https://medium.com/@s-yogesh)
-
-### My Badges Earned
-<!--START_SECTION:badges-->
-[![IT Academy: Cloud and Virtualization Concepts](https://images.credly.com/size/110x110/images/8ca28f8d-5ac0-49d7-b783-608cd4a61072/image.png)](http://www.credly.com/badges/70c32882-4c2f-40a9-987b-1e3df2928e8e "IT Academy: Cloud and Virtualization Concepts")
-[![AWS Partner: Cloud Economics Accreditation](https://images.credly.com/size/110x110/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png)](http://www.credly.com/badges/175d0775-c64f-4418-a3d3-3a108a2da9dd "AWS Partner: Cloud Economics Accreditation")
-[![AWS Partner: Accreditation (Technical)](https://images.credly.com/size/110x110/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png)](http://www.credly.com/badges/e3ba64b4-2f37-4b5d-8c95-49a613dd8d92 "AWS Partner: Accreditation (Technical)")
-[![AWS Partner: Accreditation (Business)](https://images.credly.com/size/110x110/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png)](http://www.credly.com/badges/3bb6ef3f-5e84-4b1b-9266-42c4569e4c92 "AWS Partner: Accreditation (Business)")
-[![Introduction to Cloud Development with HTML5, CSS3, and JavaScript](https://images.credly.com/size/110x110/images/440f7195-419c-49dd-926d-e9b4207c2ba0/Introduction_to_Cloud_Development_-_HTML_-_CSS_-_JavaScript.png)](http://www.credly.com/badges/77ec20ad-8391-4579-9a3a-367d715aeb3e "Introduction to Cloud Development with HTML5, CSS3, and JavaScript")
-[![Cloud Computing Core](https://images.credly.com/size/110x110/images/248dad75-1218-4de6-9592-5fc3b89566b4/edX_-_Cloud_Computing_Core_.png)](http://www.credly.com/badges/505baaaa-784c-42cf-a441-015ce2035362 "Cloud Computing Core")
-<!--END_SECTION:badges-->
 
 ---
 ![GitHub followers](https://img.shields.io/github/followers/yogeshselvarajan?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/yogeshcenation?style=for-the-badge)
