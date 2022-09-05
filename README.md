@@ -102,6 +102,7 @@ Joined Github **2** years ago.
 ### Find my latest blog:
 [![Yogesh's  Medium](https://github-readme-medium.vercel.app/?username=s-yogesh)](https://medium.com/@s-yogesh)
 
+### My Badges Earned
 <!--START_SECTION:badges-->
 [![IT Academy: Cloud and Virtualization Concepts](https://images.credly.com/size/110x110/images/8ca28f8d-5ac0-49d7-b783-608cd4a61072/image.png)](http://www.credly.com/badges/70c32882-4c2f-40a9-987b-1e3df2928e8e "IT Academy: Cloud and Virtualization Concepts")
 [![AWS Partner: Cloud Economics Accreditation](https://images.credly.com/size/110x110/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png)](http://www.credly.com/badges/175d0775-c64f-4418-a3d3-3a108a2da9dd "AWS Partner: Cloud Economics Accreditation")
