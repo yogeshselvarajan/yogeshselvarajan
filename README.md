@@ -61,6 +61,7 @@ Joined Github **2** years ago.
   <img align="center" alt="Yogesh-Azure" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Yogesh-GCP" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 </div>
+
 ### My Badges Earned
 <!--START_SECTION:badges-->
 [![IT Academy: Cloud and Virtualization Concepts](https://images.credly.com/size/110x110/images/8ca28f8d-5ac0-49d7-b783-608cd4a61072/image.png)](http://www.credly.com/badges/70c32882-4c2f-40a9-987b-1e3df2928e8e "IT Academy: Cloud and Virtualization Concepts")
