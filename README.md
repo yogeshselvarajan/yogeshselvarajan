@@ -9,16 +9,16 @@
 
 I'm studying Computer Science 🎓 from Mepco Schlenk Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to share knowledge to the newbies 👨🏻‍💻. I'm currently into Cloud Computing 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **2** years ago.
+Joined Github **3** years ago.
 
 ### Internships:
 - Data Engineering Trainee at MedTourEasy
   (January 2023 - Present)
 - Microsoft Azure Intern at Teachnook
   (November 2022 - January 2023)
-- Team Project Lead at F13 Technologies 
+- Team Project Lead at F13 Technologies Pvt Ltd 
   (August 2022 - October 2022) 
-- AWS Cloud Intern at F13 Technologies
+- AWS Cloud Intern at F13 Technologies Pvt Ltd
   (July 2022 - August 2022)
 
 
@@ -53,15 +53,8 @@ Joined Github **2** years ago.
   <img align="center" alt="Yogesh-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Yogesh-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Yogesh-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Yogesh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Yogesh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yogesh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yogesh-R" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Yogesh-Jupyter-Notebooks" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-plain-wordmark.svg">
-   <img align="center" alt="Yogesh-Numpy" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Yogesh-Pandas" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="Yogesh-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="Yogesh-Oracle" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Yogesh-AWS" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Yogesh-Azure" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Yogesh-GCP" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
@@ -118,7 +111,7 @@ Joined Github **2** years ago.
 [![Yogesh's  Medium](https://github-readme-medium.vercel.app/?username=s-yogesh)](https://medium.com/@s-yogesh)
 
 ---
-![GitHub followers](https://img.shields.io/github/followers/yogeshselvarajan?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/yogeshcenation?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/yogeshselvarajan?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/yogeshselvarajan?style=for-the-badge)
   
 ---
 
