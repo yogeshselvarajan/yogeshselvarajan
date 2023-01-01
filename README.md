@@ -11,11 +11,16 @@ I'm studying Computer Science 🎓 from Mepco Schlenk Engineering College 🏛. 
 
 Joined Github **2** years ago.
 
-### Current Role:
-- AWS Cloud Intern at F13 Technologies
-  (July 5, 2022 - August 5, 2022)
+### Internships:
+- Data Engineering Trainee at MedTourEasy
+  (January 2023 - Present)
+- Microsoft Azure Intern at Teachnook
+  (November 2022 - January 2023)
 - Team Project Lead at F13 Technologies 
-  (August 8,2022 -  Present) 
+  (August 2022 - October 2022) 
+- AWS Cloud Intern at F13 Technologies
+  (July 2022 - August 2022)
+
 
 
 ### Like My Work?
@@ -25,12 +30,12 @@ Joined Github **2** years ago.
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Resume:
-[Click here to view the latest resume](https://cloudfil.es/mJ7GkPXhhb8)
+[Click here to view the latest resume](https://drive.google.com/file/d/1_Z8kbREeOjWtuY2Je9Q-EAbsp3nFETK6/view?usp=sharing)
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Python, AWS Cloud <br />  etc.
-- 🚀 &nbsp; I’m currently learning Machine Learning and Cloud Computing Technologies.
+- 🛠 &nbsp; I’m currently working with AWS Cloud <br />  etc.
+- 🚀 &nbsp; I’m currently learning AWS and other Cloud Computing Technologies.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yogeshselvarajan?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/yogeshcenation/yogeshselvarajan/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: James Gosling and his team were cleaning up C++ and accidently wound up with Java!
