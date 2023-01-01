@@ -111,7 +111,7 @@ Joined Github **3** years ago.
 [![Yogesh's  Medium](https://github-readme-medium.vercel.app/?username=s-yogesh)](https://medium.com/@s-yogesh)
 
 ---
-![GitHub followers](https://img.shields.io/github/followers/yogeshselvarajan?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/yogeshselvarajan?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/yogeshselvarajan?style=for-the-badge) ![Twitter Follow](https://img.shields.io/twitter/follow/yogeshcenation?style=for-the-badge)
   
 ---
 
