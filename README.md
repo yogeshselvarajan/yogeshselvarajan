@@ -12,8 +12,6 @@ I'm studying Computer Science 🎓 from Mepco Schlenk Engineering College 🏛. 
 Joined Github **3** years ago.
 
 ### Internships:
-- Data Engineering Trainee at MedTourEasy
-  (January 2023 - Present)
 - Microsoft Azure Intern at Teachnook
   (November 2022 - January 2023)
 - Team Project Lead at F13 Technologies Pvt Ltd 
