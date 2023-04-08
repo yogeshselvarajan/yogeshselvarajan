@@ -11,7 +11,7 @@ I'm studying Computer Science 🎓 from Mepco Schlenk Engineering College 🏛. 
 
 Joined Github **3** years ago.
 
-### Internships:
+### Internships Experience:
 - Microsoft Azure Intern at Teachnook
   (November 2022 - January 2023)
 - Team Project Lead at F13 Technologies Pvt Ltd 
@@ -28,7 +28,7 @@ Joined Github **3** years ago.
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Resume:
-[Click here to view the latest resume](https://drive.google.com/file/d/1_Z8kbREeOjWtuY2Je9Q-EAbsp3nFETK6/view?usp=sharing)
+[Click here to view the latest resume](https://ilaforplacements.com/api/pdf/yogesh-s)
 
 ### Talking about Personal Stuffs:
 
