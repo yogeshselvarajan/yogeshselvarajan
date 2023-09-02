@@ -7,9 +7,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yogeshcenation.yogeshcenation&style=flat-square&color=0088cc)
 
-I'm studying Computer Science 🎓 from Mepco Schlenk Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to share knowledge to the newbies 👨🏻‍💻. I'm currently into Cloud Computing 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a final year student persuing Computer Science 🎓 from Mepco Schlenk Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to share knowledge to the newbies 👨🏻‍💻. I'm currently into Cloud Computing 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **3** years ago.
+Joined Github **4** years ago.
 
 ### Internships Experience:
 - Microsoft Azure Intern at Teachnook
