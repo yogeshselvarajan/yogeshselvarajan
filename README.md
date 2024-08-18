@@ -2,24 +2,21 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-selvarajan/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YogeshS66320455)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yogesh_photography24/)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/917418975931)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=yogeshcenation.yogeshcenation&style=flat-square&color=0088cc)
 
-I'm a final year student persuing Computer Science 🎓 from Mepco Schlenk Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to share knowledge to the newbies 👨🏻‍💻. I'm currently into Cloud Computing 🕸️ and working on my Data Structures and Algorithms 🤓.
+I recently graduated from Mepco Schlenk Engineering College, Sivakasi 🎓 with a degree in Computer Science Engineering. I’m now a Cloud Engineer, passionate about exploring and working across various technologies 💡. Currently, I’m focused on Cloud Computing 🕸️ and DevOps, and I'm exploring backend development with .NET and C# 🤓.
 
 Joined Github **4** years ago.
 
 ### Internships Experience:
+- Cloud Engineer Trainee at Codincity, Coimbatore
+  (April 2024 - Present)
 - Microsoft Azure Intern at Teachnook
   (November 2022 - January 2023)
-- Team Project Lead at F13 Technologies Pvt Ltd 
-  (August 2022 - October 2022) 
 - AWS Cloud Intern at F13 Technologies Pvt Ltd
-  (July 2022 - August 2022)
-
-
+  (July 2022 - October 2022)
 
 ### Like My Work?
 
@@ -28,12 +25,12 @@ Joined Github **4** years ago.
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Resume:
-[Click here to view the latest resume](https://ilaforplacements.com/api/pdf/yogesh-s)
+[Click here to view the latest resume](https://drive.google.com/file/d/1FPe-78kM3pf50dRzBWu0ask0oeFxuReX/view?usp=sharing)
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with AWS Cloud <br />  etc.
-- 🚀 &nbsp; I’m currently learning AWS and other Cloud Computing Technologies.
+- 🛠 &nbsp; I’m currently working with AWS Cloud and exploring other Cloud Computing Technologies.
+- 🚀 &nbsp;  I’m focused on advancing my skills in Cloud Computing and DevOps.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yogeshselvarajan?tab=repositories).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/yogeshcenation/yogeshselvarajan/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: James Gosling and his team were cleaning up C++ and accidently wound up with Java!
