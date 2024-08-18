@@ -25,7 +25,7 @@ Joined Github **4** years ago.
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Resume:
-[Click here to view the latest resume](https://drive.google.com/file/d/1FPe-78kM3pf50dRzBWu0ask0oeFxuReX/view?usp=sharing)
+[Click here to view the latest resume](https://drive.google.com/file/d/1bZNQKHFPoT7NO4ArYV1AinOBJQm4m0Tp/view?usp=sharing)
 
 ### Talking about Personal Stuffs:
 
